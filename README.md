@@ -5,7 +5,7 @@ This project an attempt to give back to arduino community and makers who wish to
 
 Anyone welcome to contribute,donate or support.
 
-Any organization would like to use this project . You are free to use and donate(anything above 1$ is fine!!)if you wish. 
+Any organization want to use this project,You are free to use and donate(anything above 1$ is fine!!)if you wish. 
 
 The hardware compatiability, functionality and performance is important so i will make some full working hardware and a sample cloud interface. The goal is make this code which shall work after the compilation on the fly.   
 
